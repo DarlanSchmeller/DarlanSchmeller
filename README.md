@@ -5,7 +5,7 @@
 
 ## 💻 Tech & Skills  
 I'm a **Junior Software Developer** passionate about **web development** and building dynamic applications.  
-I've been coding since _[Year]_.
+I've been coding since 2023.
 
 - **Languages & Technologies**:  
   - Python 🐍  
