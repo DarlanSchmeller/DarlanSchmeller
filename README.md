@@ -1,18 +1,18 @@
-### Hi there 👋
-🔭🔭🔭🔭🔭🔭
+# Welcome to my profile! 👋
 
+## 🤓 About Me  
+**My name is Darlan**. I live in Curitiba / Paraná.
 
-<!--
-**DarlanSchmeller/DarlanSchmeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Tech & Skills  
+I'm a **Junior Software Developer** passionate about **web development** and building dynamic applications.  
+I've been coding since _[Year]_.
 
-Here are some ideas to get you started:
+- **Languages & Technologies**:  
+  - Python 🐍  
+  - WordPress  
+  - PHP 💻  
+  - JavaScript 🌐  
+  - HTML & CSS 🎨  
+- Creating efficient and user-friendly solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always up for learning new tech and solving challenges! 🚀
