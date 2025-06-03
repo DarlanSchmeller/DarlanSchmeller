@@ -1,18 +1,42 @@
-# Welcome to my profile! 👋
+# 👋 Hello there! Welcome to my GitHub
 
-## 🤓 About Me  
-**My name is Darlan**. I live in Curitiba / Paraná.
+## 🧑‍💻 About Me
 
-## 💻 Tech & Skills  
-I'm a **Software Developer** passionate about **web development** and building dynamic applications.  
-I've been coding since 2023.
+Hi, I’m **Darlan Rodrigues Schmeller**, a Software Developer based in **Curitiba, Paraná – Brazil** 🇧🇷.  
+I’m passionate about transforming ideas into clean, efficient code—especially for the web.
 
-- **Languages & Technologies**:  
-  - Python 🐍  
-  - WordPress  
-  - PHP 💻  
-  - JavaScript 🌐  
-  - HTML & CSS 🎨  
-- Creating efficient and user-friendly solutions.
+💡 I’m currently diving deep into **PHP** and **Laravel**, focusing on building **robust, scalable backends** and mastering **full-stack development** workflows.
 
-Always up for learning new tech and solving challenges! 🚀
+## 🛠️ Tech Stack & Skills
+
+**Languages & Frameworks**  
+- PHP • Laravel *(currently learning in-depth)*  
+- JavaScript • React  
+- Python • Django • Streamlit  
+- HTML • CSS • Bootstrap • Tailwind CSS  
+- WordPress Development
+
+**Tools & Technologies**  
+- Git & GitHub  
+- Docker  
+- REST APIs  
+- MySQL & Relational Database Design  
+- Linux (WSL)
+
+## 🚀 Learning Focus
+
+I’m currently exploring:
+- ✅ **Laravel best practices**: Eloquent ORM, Queues, Jobs, Authentication  
+- ✅ **Modern PHP (8+)**: SOLID principles, design patterns, clean architecture  
+- ✅ **Integration**: Combining Laravel with React and APIs for full-stack solutions
+
+## 📫 Let’s Connect!
+
+I’m always open to collaborating on new ideas, tackling challenges, or just chatting about development.
+
+📎 [Connect on LinkedIn](https://www.linkedin.com/in/darlan-rodrigues-schmeller-64953927a)  
+📬 Email: darlanschimeller@gmail.com
+
+---
+
+*Thanks for visiting! Feel free to explore my projects and see what I’m currently building.*
