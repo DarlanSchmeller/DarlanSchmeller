@@ -21,7 +21,7 @@ I’m passionate about transforming ideas into clean, efficient code—especiall
 - Docker  
 - REST APIs  
 - MySQL & Relational Database Design  
-- Linux (WSL)
+- Linux Environments: **Linux Mint** & **WSL** on Windows
 
 ## 🚀 Learning Focus
 
