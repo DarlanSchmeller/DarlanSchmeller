@@ -3,7 +3,7 @@
 
 <br>
 
-## 🧑‍💻 About Me
+## :bust_in_silhouette: About Me
 
 I’m a Software Developer based in **Curitiba, Paraná – Brazil** 🇧🇷.  
 I’m passionate about transforming ideas into clean, efficient code—especially for the web.
