@@ -5,7 +5,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi, I’m a Software Developer based in **Curitiba, Paraná – Brazil** 🇧🇷.  
+I’m a Software Developer based in **Curitiba, Paraná – Brazil** 🇧🇷.  
 I’m passionate about transforming ideas into clean, efficient code—especially for the web.
 
 💡 I’m currently diving deep into **PHP** and **Laravel**, focusing on building **robust, scalable backends** and mastering **full-stack development** workflows.
